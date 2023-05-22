@@ -12,7 +12,7 @@
 #### :point_right: Thiago Rafael Borges: https://github.com/Thiagoborges1984
 #### :point_right: Athos Ferreira: https://github.com/AthosF
 
-### Linguagens e IDE
+### :computer: Linguagens e IDE
 
 <p>
 <a>
