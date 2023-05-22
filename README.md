@@ -10,3 +10,4 @@
 #### :point_right: Gabriel Barbieri: https://github.com/ERB-800
 #### :point_right: Mateus Augusto Brito de Souza: https://github.com/MateUZZOO7
 #### :point_right: Thiago Rafael Borges: https://github.com/Thiagoborges1984
+#### :point_right: Athos Ferreira dos Santos: https://github.com/AthosF
