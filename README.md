@@ -11,7 +11,7 @@
 #### :point_right: Mateus Augusto Brito de Souza: https://github.com/MateUZZOO7
 #### :point_right: Thiago Rafael Borges: https://github.com/Thiagoborges1984
 
-### Linguagens e ferramentas utilizada utilizadas
+### Linguagens
 
 <p>
 <a>
