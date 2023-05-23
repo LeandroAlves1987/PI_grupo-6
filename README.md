@@ -25,6 +25,6 @@
  ### :pencil: Figma do Projeto
  <p>
  <a href=https://www.figma.com/file/4q2dLCePeV5AoyzVB3W1if/Projeto?type=design&node-id=14-2&t=OWNcs6mM3eBZ3xFp-0>
- <img src=https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white/>
+ <img src=https://img.shields.io/badge/figma-151515.svg?style=for-the-badge&logo=figma&logoColor=white/>
   </a>
       
