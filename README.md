@@ -13,18 +13,19 @@
 #### :point_right: Athos Ferreira do Santos: https://github.com/AthosF
 
 
-### :computer: Linguagens e IDE
+### :computer: Linguagens, ferramentas e IDE
 
 <p>
 <a>
 <img src=https://img.shields.io/badge/html5-151515.svg?style=for-the-badge&logo=html5&logoColor=white/>
 <img src=https://img.shields.io/badge/css3-151515.svg?style=for-the-badge&logo=css3&logoColor=white/>
 <img src=https://img.shields.io/badge/Visual%20Studio%20Code-151515.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white/>
+ <img src=https://img.shields.io/badge/figma-151515.svg?style=for-the-badge&logo=figma&logoColor=white/>
 </a>
 
  ### :pencil: Figma do Projeto
- <p>
- <a href=https://www.figma.com/file/4q2dLCePeV5AoyzVB3W1if/Projeto?type=design&node-id=14-2&t=OWNcs6mM3eBZ3xFp-0>
- <img src=https://img.shields.io/badge/figma-151515.svg?style=for-the-badge&logo=figma&logoColor=white/>
-  </a>
+ 
+ - https://www.figma.com/file/4q2dLCePeV5AoyzVB3W1if/Projeto?type=design&node-id=14-2&t=OWNcs6mM3eBZ3xFp-0
+ 
+  
       
