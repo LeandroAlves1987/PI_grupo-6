@@ -10,3 +10,13 @@
 #### :point_right: Gabriel Barbieri: https://github.com/ERB-800
 #### :point_right: Mateus Augusto Brito de Souza: https://github.com/MateUZZOO7
 #### :point_right: Thiago Rafael Borges: https://github.com/Thiagoborges1984
+#### :point_right: Athos Ferreira: https://github.com/AthosF
+
+### :computer: Linguagens e IDE
+
+<p>
+<a>
+<img src=https://img.shields.io/badge/html5-151515.svg?style=for-the-badge&logo=html5&logoColor=white/>
+<img src=https://img.shields.io/badge/css3-151515.svg?style=for-the-badge&logo=css3&logoColor=white/>
+<img src=https://img.shields.io/badge/Visual%20Studio%20Code-151515.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white/>
+</a>
