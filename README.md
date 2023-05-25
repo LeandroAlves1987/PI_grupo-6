@@ -2,6 +2,12 @@
 
 ## Plataforma para disponibilização gratuita de livros on-line
 
+<p>
+
+A proposta central do software, é criar uma plataforma educacional oficial que facilite e modernize o sistema de aprendizagem em instituições de ensino disponibilizando aos alunos e professores, livros e conteúdo digital afim de diversificar o leque de recursos de ensino.
+</p>
+
+
 ### :space_invader: Integrantes
 
 #### :point_right: Lucas Luiz Assis: https://github.com/Luhcyy
