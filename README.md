@@ -5,6 +5,9 @@
 <p>
 
 Este projeto foi desenvolvido como forma avaliativa no curso de Desenvolvimento de Software Multiplataforma (DSM) – 1º semestre, utilizando como tema base Educação.
+</p>
+
+<p>
 A criação do desenvolvimento deste software tem por objetivos, a disseminação da tecnologia global de internet em todo território nacional, viabilizar os recursos financeiros utilizados com extração, produção, impressão e distribuição de livros e voltar para investimentos no setor tecnológico, sustentabilidade afim de reduzir desmatamentos e ser uma plataforma sustentável
 
 </p>
