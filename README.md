@@ -4,7 +4,9 @@
 
 <p>
 
-A proposta central do software, é criar uma plataforma educacional oficial que facilite e modernize o sistema de aprendizagem em instituições de ensino disponibilizando aos alunos e professores, livros e conteúdo digital afim de diversificar o leque de recursos de ensino.
+Este projeto foi desenvolvido como forma avaliativa no curso de Desenvolvimento de Software Multiplataforma (DSM) – 1º semestre, utilizando como tema base Educação.
+A criação do desenvolvimento deste software tem por objetivos, a disseminação da tecnologia global de internet em todo território nacional, viabilizar os recursos financeiros utilizados com extração, produção, impressão e distribuição de livros e voltar para investimentos no setor tecnológico, sustentabilidade afim de reduzir desmatamentos e ser uma plataforma sustentável
+
 </p>
 
 
