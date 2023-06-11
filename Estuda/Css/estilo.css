@@ -12,7 +12,6 @@ body {
 
 nav.navbar-transparente {
     padding: 15px;
-    max-height: 90px;
     background-color:#d9b504;
     font-family: "roboto";
     font-size: 20px;
@@ -66,6 +65,15 @@ nav.navbar-transparente {
 .caixa2 {
     padding-top: 10px;
     padding-bottom: 60px;
+}
+
+.btn-color { 
+    background-color:#038c33;
+    font-family: "roboto";
+}
+
+.btn-color:hover {   
+    background-color:#014011; 
 }
 
 .btn-amarelo{
